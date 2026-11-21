@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "KrynexLabs — make work flow"
+abstract: "Landing page for KrynexLabs: AI automation for business. Static HTML, CSS and JavaScript with appearance settings, gamification and a reviews carousel."
+type: software
+authors:
+  - family-names: Yakovlev
+    given-names: Anton
+    affiliation: KrynexLabs
+    email: krynexlabs@gmail.com
+license: Apache-2.0
+date-released: 2026-11-21
+keywords:
+  - landing-page
+  - static-site
+  - ai-automation
+  - html
+  - css
+  - javascript
+# Add repository-code and url once the public repository and site domain are known.

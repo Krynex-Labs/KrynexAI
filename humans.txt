@@ -1,0 +1,12 @@
+/* TEAM */
+Creator: Anton Yakovlev
+Site: KrynexLabs
+Contact: krynexlabs@gmail.com
+
+/* THANKS */
+You, for reading this file.
+
+/* SITE */
+Standards: HTML5, CSS3, ES2020
+Components: DM Sans, Manrope
+Software: plain text editor, Node.js for checks

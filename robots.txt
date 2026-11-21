@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the placeholder host in sitemap.xml with the real domain before publishing.
+Sitemap: https://krynexlabs.example/sitemap.xml

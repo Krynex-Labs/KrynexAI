@@ -1,0 +1,18 @@
+{
+  "name": "KrynexLabs — make work flow",
+  "short_name": "KrynexLabs",
+  "description": "AI automation for business.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10100f",
+  "theme_color": "#10100f",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

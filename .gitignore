@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets (на будущее)
+.env
+.env.local
+
+# Build / cache (на будущее)
+dist/
+.cache/
+*.log
